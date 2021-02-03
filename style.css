@@ -1,0 +1,65 @@
+.video {
+  margin: 0px 100px 0px 100px;
+  justify-content: center;
+  align-items: center;
+}
+
+.about {
+  width: 100%;
+  background-color: white;
+  display:flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.text {
+  margin: 50px 50px 50px 100px;
+  font-family: Segoe UI;
+}
+
+img {
+  height: 300px;
+  margin: 50px 100px 50px 50px;
+}
+
+.line {
+  height: 50px;
+  background: #7F7373;
+}
+
+.container {
+  height: 500px;
+  background: #7F7373;
+}
+
+.names {
+  margin: 0px 150px 0px 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: Segoe UI;
+}
+
+.box {
+  height: 50px;
+  width: 200px;
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pictures {
+  margin: 0px 100px 0px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.picture {
+  width: 200px;
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
