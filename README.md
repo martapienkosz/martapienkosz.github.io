@@ -6,8 +6,7 @@
 For the Assignment 1 for the Communication Lab course I have designed a website to host a short movie. In addition to eddited and completed in 30min video, the website contains the "about" section, short bio of the artists and contact us section. I strived for good user experience and minimalistic aesthetic. For this purpose I chose a consistent layout and decided to display blocks of text on white background. I believe this increases the readability of the website and introduces an appealing style. I wanted the webiste to represent the idea begind 30 MFF: playfull and simplistic.
 
 
-<img src= "https://github.com/martapienkosz/martapienkosz.github.io/blob/main/documentation/p1.png" width= "200"> 
-<img src= "https://github.com/martapienkosz/martapienkosz.github.io/blob/main/documentation/p2.png" width= "200">
+<img src= "https://github.com/martapienkosz/martapienkosz.github.io/blob/main/documentation/p1.png" height= "200"> <img src= "https://github.com/martapienkosz/martapienkosz.github.io/blob/main/documentation/p2.png" height= "200">
 
 ## Process
 <b>How did you go about implementing the concept</b>
@@ -18,8 +17,7 @@ I divided content into four sections and created specific containers for each. I
 
 In the final stage I have modified java script and added interactivity to my website. I chose to set a mouseover function so that the text with actor name is being displayed when the user hovers the mouse over the picture. 
 
-<img src= "https://github.com/martapienkosz/martapienkosz.github.io/blob/main/documentation/p3.png" width= "200"> 
-<img src= "https://github.com/martapienkosz/martapienkosz.github.io/blob/main/documentation/p4.png" width= "200">
+<img src= "https://github.com/martapienkosz/martapienkosz.github.io/blob/main/documentation/p3.png" height= "200"> <img src= "https://github.com/martapienkosz/martapienkosz.github.io/blob/main/documentation/p4.png" heigh= "200">
 
 
 ## Reflection and Evaluation
