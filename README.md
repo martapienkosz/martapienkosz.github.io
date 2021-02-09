@@ -14,8 +14,6 @@ I divided content into four sections and created specific containers for each. I
 
 In the final stage I have modified java script and added interactivity to my website. I chose to set a mouseover function so that the text with actor name is being displayed when the user hovers the mouse over the picture. 
 
-[https://xd.adobe.com/view/6dd68400-987b-4a94-8cd6-f28783bf6d1e-3885/]
-
 <img src= "https://github.com/martapienkosz/interactivemedia/blob/master/Media/scr11.png" width= "800">
 
 
