@@ -17,7 +17,7 @@ I divided content into four sections and created specific containers for each. I
 
 In the final stage I have modified java script and added interactivity to my website. I chose to set a mouseover function so that the text with actor name is being displayed when the user hovers the mouse over the picture. 
 
-<img src= "https://github.com/martapienkosz/martapienkosz.github.io/blob/main/documentation/p3.png" height= "150"> <img src= "https://github.com/martapienkosz/martapienkosz.github.io/blob/main/documentation/p4.png" height= "150">
+<img src= "https://github.com/martapienkosz/martapienkosz.github.io/blob/main/documentation/p3.png" height= "150"> <img src= "https://github.com/martapienkosz/martapienkosz.github.io/blob/main/documentation/p4.png" height= "200">
 
 
 ## Reflection and Evaluation
