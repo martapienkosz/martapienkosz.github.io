@@ -1,14 +1,15 @@
 # ASSIGNMENT 1: 30MFF WEB SITE
 
 ## Project Description
-<b>what is the project, what is the overall concept and theme, and what kind of experience you were striving to create?</b>
+<b>What is the project, what is the overall concept and theme, and what kind of experience you were striving to create?</b>
 
 The concept of my website was to build a scroll bar containing all the content: actors, information, contact. I strived for consistent aesthetics and orderly content. I chose to use white text blocks on a dark background to introduce order and regularity. I wanted my website to represent the idea behind 30 MMF: simple and playfull.
 
 ## Process: How did you go about implementing the concept.
 
+
 ## Reflection and Evaluation
-his should bookend the initial concept and talk about whether your expectations and goals were met in the process of building the final working version.
+<b>Were the expectations and goals  met in the process of building the final working version?</b>
 
 My initial idea was to put a full-screen video and navigation over it. After reflection, I realized that the site does not speak for itself as it is not clear what the MFF 30 is. I decided to divide the space into two parts and have a short description and a video on the right.
 
