@@ -1,19 +1,28 @@
+/* fixed background pixture */
 html {
   background: url(images/img2.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
+/* specifying color of all headers */
+h1 {
+  color: #C4958F;
+}
+
+/* specifying font and size */
 body {
-  font-family: Segoe UI;
+  font-family: Helvetica;
   font-size: 14px;
 }
 
+/* creating flexbox to center navigation bar */
 .nav_container {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
+/* creating fixed navigation bar */
 .navbar {
   width: 80%;
   top: 0;
@@ -25,15 +34,17 @@ body {
   justify-content: center;
 }
 
+/* specifying style of elements in navigation bar */
 .navbar a {
   float: left;
   color: black;
   text-decoration: none;
-  font-family: Segoe UI;
   width: 25%;
   text-align: center;
 }
 
+
+/* creating flexbox that stores video and text ; adding margins */
 .video_container {
   display: flex;
   margin-left: 10%;
@@ -43,14 +54,14 @@ body {
   align-items: center;
 }
 
-#clickplay {
+#welcome_text {
   width: 80%;
 	color: white;
   font-size: 25px;
   text-align: left;
 }
 
-#play {
+#watch_it_now {
   width: 50%;
   margin-top: 5%;
   height: 50px;
@@ -60,6 +71,8 @@ body {
   align-items: center;
 }
 
+
+/* creating flexbox that stores image and text ; adding margins */
 #about {
   display: flex;
   margin-left: 10%;
@@ -75,6 +88,7 @@ body {
   background-color: white;
 }
 
+/* creating flexbox that stores pictures of actors and text ; adding margins */
 #actors {
   display: flex;
   margin-left: 10%;
@@ -90,12 +104,43 @@ body {
   background-color: white;
 }
 
-#contact {
+/* creating separates IDs to modify them in javascript; setting display mode to none */
+#actor1_name {
+  display: none;
+  color: #C4958F;
   background-color: white;
-  padding: 3%;
+  padding:5%;
+}
+
+#actor2_name {
+  display: none;
+  color: #C4958F;
+  background-color: white;
+  padding:5%;
+}
+
+#actor3_name {
+  display: none;
+  color: #C4958F;
+  background-color: white;
+  padding:5%;
+}
+
+
+/* creating flexbox that stores image and text with another div ; adding margins */
+#contact {
+  display: flex;
   margin-left: 10%;
   margin-right: 10%;
   margin-top: 6%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contact_container {
+  background-color: white;
+  padding: 3%;
+  width: 50%;
 }
 
 .conact_list {
